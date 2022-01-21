@@ -18,7 +18,7 @@ To read a web page and extract temperature values, use standard Java classes
 Table weather_history has two columns:  
 weather_date DATE  
 weather_value VARCHAR  
-
+-------------------------------
 **Требования для запуска:**  
 Java 11  
 Maven  
